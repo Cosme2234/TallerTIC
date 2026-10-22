@@ -1,0 +1,8 @@
+secreto.txt
+
+no_subir/
+.env
+node_modules/
+
+*.sql
+*.java
